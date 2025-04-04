@@ -21,6 +21,6 @@ Git, VS Code, Docker, Kubernetes, CI/CD, Power BI, Tableau, Azure, AWS, Google C
 - **[TargetValuePredictor](https://github.com/amiras06/TargetValuePredictor):** AI-powered project for predicting football player values.
 - **[TrafficAccidentInsights](https://github.com/amiras06/TrafficAccidentInsights):** Analysis of road accident trends in France.
 - **[NYSharedBikeInsights](https://github.com/amiras06/NYSharedBikeInsights):** Exploring urban mobility through CitiBike trip data in New York.
-- **[Database Modeling](https://github.com/amiras06/ParisSQLModeler) Projects:** Advanced relational database projects utilizing open data from Paris.
+- **[Database Modeling](https://github.com/amiras06/ParisSQLModeler):** Advanced relational database projects utilizing open data from Paris.
 
 - **And more below!**
