@@ -1,5 +1,3 @@
-# amira06
-
 # Hi there, I'm Said 👋
 Welcome to my GitHub profile! 
 
